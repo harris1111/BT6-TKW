@@ -1,7 +1,7 @@
 import fn from 'knex';
 
 export const connectionInfo = {
-    host: '127.0.0.1',
+    host: 'us-cdbr-east-05.cleardb.net',
     port: 3306,
     user: 'ba4a4722a83d27',
     pass: '23121d15',
