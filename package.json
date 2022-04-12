@@ -17,7 +17,7 @@
     },
     "scripts": {
         "watch": "nodemon app.js",
-        "start": "node app.js"
+        "start": "node --experimental-specifier-resolution=node app.js"
     },
     "devDependencies": {
         "bcrypt": "^5.0.1",
