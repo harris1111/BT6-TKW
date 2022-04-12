@@ -5,7 +5,7 @@ export const connectionInfo = {
     port: 3306,
     user: 'ba4a4722a83d27',
     pass: '23121d15',
-    database: 'gearANT'
+    database: 'heroku_8874bb0dcf40a7f'
 }
 
 const knex = fn({
