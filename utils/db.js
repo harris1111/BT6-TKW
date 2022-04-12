@@ -3,7 +3,8 @@ import fn from 'knex';
 export const connectionInfo = {
     host: '127.0.0.1',
     port: 3306,
-    user: 'root',
+    user: 'ba4a4722a83d27',
+    pass: '23121d15',
     database: 'gearANT'
 }
 
