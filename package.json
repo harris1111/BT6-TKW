@@ -16,7 +16,7 @@
         "sweetalert2": "^11.4.8"
     },
     "scripts": {
-        "watch": "nodemon app.js"
+        "watch": "nodemon app.js",
         "start": "node app.js"
     },
     "devDependencies": {
