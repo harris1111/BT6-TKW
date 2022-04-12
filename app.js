@@ -21,6 +21,6 @@ activate_locals(app);
 activate_view(app);
 activate_route(app);
 
-const port = process.env.PORT || 8080;
+const port = process.env.PORT;
 app.listen(port, function() {});
 console.log(`Listening on port`, port)
